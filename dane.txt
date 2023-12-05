@@ -1,0 +1,6 @@
+Imię: a
+Nazwisko: a
+Stanowisko: a
+Data zatrudnienia: a
+Wynagrodzenie: a
+
